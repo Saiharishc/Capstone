@@ -1,2 +1,2 @@
 # Capstone
-Classification and regression projects
+Capstone project and Grand hackathon on classification and regression problems
